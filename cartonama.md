@@ -1365,7 +1365,7 @@ Ways to serve tiles ... TileCache (for imagery), TileStache, MapBox, mod\_tile, 
     {
       "cache": {
         "name": "Disk",
-        "path": "/tmp/stache",
+        "path": "/tmp/stache"
       },
       "layers": {
         "blr": {
